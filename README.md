@@ -295,11 +295,7 @@ A beautiful dashboard shows current preferences, newsletter status, and provides
 
 ---
 
-## 📄 License
 
-MIT License - see LICENSE file for details
-
----
 
 ## 🆘 Support
 
