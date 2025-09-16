@@ -1,4 +1,4 @@
-# Build a Personalized AI Newsletter SaaS with Next.js & Supabase
+# Build a Personalized AI Newsletter  with Next.js & Supabase
 
 <div align="center">
   <br />
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Inngest-6366F1?style=for-the-badge&logo=inngest&logoColor=white" alt="Inngest" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
   </div>
-  <h3 align="center">Build a Personalized AI Newsletter SaaS with Next.js, Supabase, OpenAI & Inngest</h3>
+  <h3 align="center">Build a Personalized AI Newsletter  with Next.js, Supabase, OpenAI & Inngest</h3>
   <div align="center">
     Follow the full video tutorial on  
     <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
